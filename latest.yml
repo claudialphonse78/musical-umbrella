@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: dhc-setup-1.0.0.exe
+    sha512: WjDpBKM1CDGySkYnO3qrAJmoGXmcOKQnrft3ylX8wxhRIdVorHSmjG/oKRCPi8Ni4VkOU5Rxv0a5ch4oSZG14Q==
+    size: 73341946
+path: dhc-setup-1.0.0.exe
+sha512: WjDpBKM1CDGySkYnO3qrAJmoGXmcOKQnrft3ylX8wxhRIdVorHSmjG/oKRCPi8Ni4VkOU5Rxv0a5ch4oSZG14Q==
+releaseDate: '2019-08-07T11:52:46.495Z'
